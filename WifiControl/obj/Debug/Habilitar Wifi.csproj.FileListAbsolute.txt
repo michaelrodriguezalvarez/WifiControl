@@ -1,0 +1,9 @@
+D:\MICHAEL\NETWORK\Habilitar Wifi\Habilitar Wifi\bin\Debug\Habilitar Wifi.exe.config
+D:\MICHAEL\NETWORK\Habilitar Wifi\Habilitar Wifi\bin\Debug\Habilitar Wifi.exe
+D:\MICHAEL\NETWORK\Habilitar Wifi\Habilitar Wifi\bin\Debug\Habilitar Wifi.pdb
+D:\MICHAEL\NETWORK\Habilitar Wifi\Habilitar Wifi\obj\Debug\Habilitar Wifi.csprojResolveAssemblyReference.cache
+D:\MICHAEL\NETWORK\Habilitar Wifi\Habilitar Wifi\obj\Debug\Habilitar_Wifi.Properties.Resources.resources
+D:\MICHAEL\NETWORK\Habilitar Wifi\Habilitar Wifi\obj\Debug\Habilitar Wifi.csproj.GenerateResource.Cache
+D:\MICHAEL\NETWORK\Habilitar Wifi\Habilitar Wifi\obj\Debug\Habilitar Wifi.exe
+D:\MICHAEL\NETWORK\Habilitar Wifi\Habilitar Wifi\obj\Debug\Habilitar Wifi.pdb
+D:\MICHAEL\NETWORK\Habilitar Wifi\Habilitar Wifi\obj\Debug\Habilitar_Wifi.WifiControl.resources

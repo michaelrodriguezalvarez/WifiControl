@@ -1,0 +1,26 @@
+D:\MICHAEL\NETWORK\Habilitar Wifi\Habilitar Wifi\obj\Debug\WifiControl.WifiControl.resources
+D:\MICHAEL\NETWORK\Habilitar Wifi\Habilitar Wifi\obj\Debug\WifiControl.csproj.GenerateResource.Cache
+D:\MICHAEL\NETWORK\Habilitar Wifi\Habilitar Wifi\bin\Debug\WifiControl.exe.config
+D:\MICHAEL\NETWORK\Habilitar Wifi\Habilitar Wifi\obj\Debug\WifiControl.Properties.Resources.resources
+D:\MICHAEL\NETWORK\Habilitar Wifi\Habilitar Wifi\bin\Debug\WifiControl.exe
+D:\MICHAEL\NETWORK\Habilitar Wifi\Habilitar Wifi\bin\Debug\WifiControl.pdb
+D:\MICHAEL\NETWORK\Habilitar Wifi\Habilitar Wifi\obj\Debug\WifiControl.exe
+D:\MICHAEL\NETWORK\Habilitar Wifi\Habilitar Wifi\obj\Debug\WifiControl.pdb
+D:\MICHAEL\NETWORK\WifiControl\WifiControl\bin\Debug\WifiControl.exe.config
+D:\MICHAEL\NETWORK\WifiControl\WifiControl\obj\Debug\WifiControl.exe
+D:\MICHAEL\NETWORK\WifiControl\WifiControl\obj\Debug\WifiControl.pdb
+D:\MICHAEL\NETWORK\WifiControl\WifiControl\bin\Debug\WifiControl.exe
+D:\MICHAEL\NETWORK\WifiControl\WifiControl\bin\Debug\WifiControl.pdb
+D:\MICHAEL\NETWORK\WifiControl\WifiControl\obj\Debug\WifiControl.csprojResolveAssemblyReference.cache
+D:\MICHAEL\NETWORK\WifiControl\WifiControl\obj\Debug\WifiControl.WifiControl.resources
+D:\MICHAEL\NETWORK\WifiControl\WifiControl\obj\Debug\WifiControl.Properties.Resources.resources
+D:\MICHAEL\NETWORK\WifiControl\WifiControl\obj\Debug\WifiControl.csproj.GenerateResource.Cache
+D:\MICHAEL\NETWORK\WifiControl1\WifiControl\bin\Debug\WifiControl.exe.config
+D:\MICHAEL\NETWORK\WifiControl1\WifiControl\obj\Debug\WifiControl.exe
+D:\MICHAEL\NETWORK\WifiControl1\WifiControl\obj\Debug\WifiControl.pdb
+D:\MICHAEL\NETWORK\WifiControl1\WifiControl\bin\Debug\WifiControl.exe
+D:\MICHAEL\NETWORK\WifiControl1\WifiControl\bin\Debug\WifiControl.pdb
+D:\MICHAEL\NETWORK\WifiControl1\WifiControl\obj\Debug\WifiControl.csprojResolveAssemblyReference.cache
+D:\MICHAEL\NETWORK\WifiControl1\WifiControl\obj\Debug\WifiControl.WifiControl.resources
+D:\MICHAEL\NETWORK\WifiControl1\WifiControl\obj\Debug\WifiControl.Properties.Resources.resources
+D:\MICHAEL\NETWORK\WifiControl1\WifiControl\obj\Debug\WifiControl.csproj.GenerateResource.Cache
